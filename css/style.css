@@ -1,0 +1,52 @@
+small {
+     display: inline; 
+     width: 188;
+     height: 61;
+     font-weight: bold;
+     text-align: center;
+    color:orangered;
+}
+medium {
+    display: inline;
+    width: 97;
+    height: 81;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: orangered;
+}
+#heroimg {
+    height: 600px;
+    padding: 25px;
+}
+#content {
+    width: 500px;
+    margin: 0 auto;
+}
+#footer {
+    background-color: #373738;
+    display: inline-block;
+    vertical-align: top;
+
+}
+#li {
+    padding: 20%;
+}
+#logo {
+    display: float-left;
+    width: 73%;
+    padding: 1%;
+    text-align: left;
+}
+#contact {
+    display: inline-block;
+    padding: 1%;
+    text-align: right;
+}
+.nav {
+    width: 73%;
+    padding: 1%;
+    margin-left: auto;
+}
+
+
+
